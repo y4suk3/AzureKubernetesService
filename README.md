@@ -1,7 +1,7 @@
 # AzureKubernetesService
 How to create azure kubernetes service.
 
-##事前準備
+## 事前準備
 本手順は、 Azure CLI にて AKS をデプロイする手順となるため、事前に Azure CLI のインストールおよび `az login` で azure にログインしておく
 
 ## Azure CLI から AKS をデプロイ（From Docker Registory）
